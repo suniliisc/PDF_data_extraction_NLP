@@ -1,0 +1,88 @@
+{
+  "filename": "file_17_1",
+  "output": [
+    {
+      "class": "other",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "PERSON",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DISEASE",
+      "gt": [
+        [
+          132,
+          449,
+          163,
+          458,
+          "sarcoidosis"
+        ],
+        [
+          71,
+          449,
+          96,
+          458,
+          "resistant"
+        ],
+        [
+          134,
+          449,
+          161,
+          458,
+          "(mdr-tb)"
+        ],
+        [
+          42,
+          449,
+          70,
+          458,
+          "multi-drug"
+        ]
+      ],
+      "pred": [
+        [
+          132,
+          449,
+          163,
+          458,
+          "sarcoidosis"
+        ],
+        [
+          71,
+          449,
+          96,
+          458,
+          "resistant"
+        ],
+        [
+          134,
+          449,
+          161,
+          458,
+          "(mdr-tb)"
+        ],
+        [
+          42,
+          449,
+          70,
+          458,
+          "multi-drug"
+        ]
+      ]
+    },
+    {
+      "class": "CHEMICAL",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DOSAGE",
+      "gt": [],
+      "pred": []
+    }
+  ]
+}

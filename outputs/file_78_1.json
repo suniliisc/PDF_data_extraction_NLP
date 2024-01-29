@@ -1,0 +1,88 @@
+{
+  "filename": "file_78_1",
+  "output": [
+    {
+      "class": "other",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "PERSON",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DISEASE",
+      "gt": [
+        [
+          169,
+          449,
+          191,
+          458,
+          "disease"
+        ],
+        [
+          42,
+          458,
+          65,
+          467,
+          "thoracic"
+        ],
+        [
+          42,
+          449,
+          64,
+          458,
+          "silicosis"
+        ],
+        [
+          132,
+          449,
+          168,
+          458,
+          "legionnaires'"
+        ]
+      ],
+      "pred": [
+        [
+          169,
+          449,
+          191,
+          458,
+          "disease"
+        ],
+        [
+          42,
+          458,
+          65,
+          467,
+          "thoracic"
+        ],
+        [
+          42,
+          449,
+          64,
+          458,
+          "silicosis"
+        ],
+        [
+          132,
+          449,
+          168,
+          458,
+          "legionnaires'"
+        ]
+      ]
+    },
+    {
+      "class": "CHEMICAL",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DOSAGE",
+      "gt": [],
+      "pred": []
+    }
+  ]
+}

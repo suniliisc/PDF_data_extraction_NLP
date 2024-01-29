@@ -1,0 +1,30 @@
+{
+  "filename": "file_90_3",
+  "output": [
+    {
+      "class": "other",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "PERSON",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DISEASE",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "CHEMICAL",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DOSAGE",
+      "gt": [],
+      "pred": []
+    }
+  ]
+}

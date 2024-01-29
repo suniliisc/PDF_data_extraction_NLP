@@ -1,0 +1,60 @@
+{
+  "filename": "file_6_0",
+  "output": [
+    {
+      "class": "other",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "PERSON",
+      "gt": [
+        [
+          33,
+          146,
+          48,
+          154,
+          "smith"
+        ],
+        [
+          123,
+          146,
+          143,
+          154,
+          "jessica"
+        ]
+      ],
+      "pred": [
+        [
+          33,
+          146,
+          48,
+          154,
+          "smith"
+        ],
+        [
+          123,
+          146,
+          143,
+          154,
+          "jessica"
+        ]
+      ]
+    },
+    {
+      "class": "DISEASE",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "CHEMICAL",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DOSAGE",
+      "gt": [],
+      "pred": []
+    }
+  ]
+}

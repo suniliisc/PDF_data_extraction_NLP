@@ -1,0 +1,88 @@
+{
+  "filename": "file_85_1",
+  "output": [
+    {
+      "class": "other",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "PERSON",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DISEASE",
+      "gt": [
+        [
+          132,
+          449,
+          151,
+          458,
+          "rabies"
+        ],
+        [
+          67,
+          449,
+          83,
+          458,
+          "outlet"
+        ],
+        [
+          84,
+          449,
+          112,
+          458,
+          "syndrome"
+        ],
+        [
+          42,
+          449,
+          65,
+          458,
+          "thoracic"
+        ]
+      ],
+      "pred": [
+        [
+          132,
+          449,
+          151,
+          458,
+          "rabies"
+        ],
+        [
+          67,
+          449,
+          83,
+          458,
+          "outlet"
+        ],
+        [
+          84,
+          449,
+          112,
+          458,
+          "syndrome"
+        ],
+        [
+          42,
+          449,
+          65,
+          458,
+          "thoracic"
+        ]
+      ]
+    },
+    {
+      "class": "CHEMICAL",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DOSAGE",
+      "gt": [],
+      "pred": []
+    }
+  ]
+}

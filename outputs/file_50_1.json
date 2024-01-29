@@ -1,0 +1,74 @@
+{
+  "filename": "file_50_1",
+  "output": [
+    {
+      "class": "other",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "PERSON",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DISEASE",
+      "gt": [
+        [
+          42,
+          449,
+          66,
+          458,
+          "influenza"
+        ],
+        [
+          168,
+          449,
+          211,
+          458,
+          "musculoskeletal"
+        ],
+        [
+          132,
+          449,
+          166,
+          458,
+          "work-related"
+        ]
+      ],
+      "pred": [
+        [
+          42,
+          449,
+          66,
+          458,
+          "influenza"
+        ],
+        [
+          168,
+          449,
+          211,
+          458,
+          "musculoskeletal"
+        ],
+        [
+          132,
+          449,
+          166,
+          458,
+          "work-related"
+        ]
+      ]
+    },
+    {
+      "class": "CHEMICAL",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DOSAGE",
+      "gt": [],
+      "pred": []
+    }
+  ]
+}

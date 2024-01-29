@@ -1,0 +1,66 @@
+{
+  "filename": "file_66_1",
+  "output": [
+    {
+      "class": "other",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "PERSON",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DISEASE",
+      "gt": [
+        [
+          132,
+          449,
+          147,
+          458,
+          "good"
+        ],
+        [
+          69,
+          449,
+          80,
+          458,
+          "(11)"
+        ],
+        [
+          172,
+          449,
+          197,
+          458,
+          "practices"
+        ],
+        [
+          148,
+          449,
+          170,
+          458,
+          "hygiene"
+        ],
+        [
+          42,
+          449,
+          68,
+          458,
+          "hiv/aids"
+        ]
+      ],
+      "pred": []
+    },
+    {
+      "class": "CHEMICAL",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DOSAGE",
+      "gt": [],
+      "pred": []
+    }
+  ]
+}

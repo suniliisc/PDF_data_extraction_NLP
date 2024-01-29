@@ -1,0 +1,102 @@
+{
+  "filename": "file_88_1",
+  "output": [
+    {
+      "class": "other",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "PERSON",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DISEASE",
+      "gt": [
+        [
+          42,
+          449,
+          74,
+          458,
+          "dupuytren's"
+        ],
+        [
+          132,
+          449,
+          162,
+          458,
+          "vermiculite"
+        ],
+        [
+          163,
+          449,
+          189,
+          458,
+          "insulation"
+        ],
+        [
+          75,
+          449,
+          107,
+          458,
+          "contracture"
+        ],
+        [
+          42,
+          458,
+          71,
+          467,
+          "hantavirus"
+        ]
+      ],
+      "pred": [
+        [
+          42,
+          449,
+          74,
+          458,
+          "dupuytren's"
+        ],
+        [
+          132,
+          449,
+          162,
+          458,
+          "vermiculite"
+        ],
+        [
+          163,
+          449,
+          189,
+          458,
+          "insulation"
+        ],
+        [
+          75,
+          449,
+          107,
+          458,
+          "contracture"
+        ],
+        [
+          42,
+          458,
+          71,
+          467,
+          "hantavirus"
+        ]
+      ]
+    },
+    {
+      "class": "CHEMICAL",
+      "gt": [],
+      "pred": []
+    },
+    {
+      "class": "DOSAGE",
+      "gt": [],
+      "pred": []
+    }
+  ]
+}
